@@ -10,7 +10,7 @@
 ### Connect with me:
 
 <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/>- Flame#0003 <br>
-<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" /> - [Flame]('https://steamcommunity.com/id/Flamebullet/') <br>
+<img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" /> - [Flame](https://steamcommunity.com/id/Flamebullet/) <br>
 
 <!-- <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /> - [@Flamebullet](https://www.twitter.com/Flamebullet)<br> -->
 
