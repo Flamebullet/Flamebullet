@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/> - Flame#0003 <br>
+<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/discord.svg"/> - Flamebullet <br>
 
 <img align="left" alt="Steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/steam.svg" /> - [Flame](https://steamcommunity.com/id/Flamebullet/) <br>
 
