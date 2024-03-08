@@ -6,7 +6,8 @@
 
 -   [Discord Bot](https://flamebullet.github.io/Ro-Bot-V2-Webpage/#/)<br>
 -   [YouTube Downloader WebApp](https://github.com/Flamebullet/youtube-downloader-web)<br>
--   [YouTube Downloader Application](https://github.com/Flamebullet/youtube-downloader/releases)
+-   [YouTube Downloader Application](https://github.com/Flamebullet/youtube-downloader/releases)<br>
+-   [Twitch bot](https://github.com/Flamebullet/bottercype/releases)<br>
 
 ### Connect with me:
 
